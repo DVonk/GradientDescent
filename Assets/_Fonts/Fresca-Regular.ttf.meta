@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f23d78dbc3993da4ea2098eac950724e
+timeCreated: 1501337134
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 110
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fresca
+  fontNames:
+  - Fresca
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
